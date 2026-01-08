@@ -48,5 +48,5 @@ A simple FastAPI-based API to generate text embeddings using **Ollama**, store t
 - Base URL: http://127.0.0.1:8000
 ---
 ## Screenshots
-![Query-1](screenshots\query1.png)
-![Query-1](screenshots\chunk1.png)
+![Query-1](screenshots/query1.png)
+![Chunk-1](screenshots/chunk1.png)
